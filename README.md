@@ -1,5 +1,9 @@
 # Japan in Numbers — 日本統計年鑑
 
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/daring-otter-85/best-national-statistics-site-20261126-0539-v2/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/daring-otter-85/best-national-statistics-site-20261126-0539-v2/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+
 A national statistics site for Japan: population, economy, prices & labour,
 trade, regions and sources — one hash-routed page, every figure with its source
 and year. Built for the make.fun competition
